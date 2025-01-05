@@ -1,3 +1,6 @@
+POUR LANCER L'APPLICATION, IL FAUT LANCER LE FICHIER Interface.py
+
+
 Win32com  version 308
 	 envoie de mail
 	commande d'installaton à rentrer dans le terminal : python3 -m pip install pywin32
