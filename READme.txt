@@ -1,10 +1,3 @@
-Python version 3.13.1
-	passez par le site internet pour l'installation
-
-PyQT5 version 5.15.9
-	 partie graphique
-	commande d'installaton à rentrer dans le terminal : python3 -m pip install PyQT5
-        
 Win32com  version 308
 	 envoie de mail
 	commande d'installaton à rentrer dans le terminal : python3 -m pip install win32com
