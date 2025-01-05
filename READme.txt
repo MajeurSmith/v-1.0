@@ -1,6 +1,6 @@
 Win32com  version 308
 	 envoie de mail
-	commande d'installaton à rentrer dans le terminal : python3 -m pip install win32com
+	commande d'installaton à rentrer dans le terminal : python3 -m pip install pywin32
 
 Os version 23.0.0
 	 permet d’obtenir les chemins d’accès des fichiers pour
@@ -14,4 +14,4 @@ Hashlib version 1.24.0
 
 Firebase_admin version 6.6.0
 	 permet de communiquer avec la base de données
-	commande d'installaton à rentrer dans le terminal : python3 -m pip install irebase_admin
+	commande d'installaton à rentrer dans le terminal : python3 -m pip install firebase_admin
